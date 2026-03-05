@@ -46,8 +46,10 @@ python task1.py
 
 Input:
 Enter your message: i am 23 years old boy
+
 Enter shift value: 3
-Type 'encrypt' or 'decrypt': encrypt
+
+Type E'encrypt' or D'decrypt': encrypt
 
 Output:
 Result: l dp 56 bhduv rog erb
