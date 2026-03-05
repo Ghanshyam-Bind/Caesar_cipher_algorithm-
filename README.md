@@ -34,7 +34,7 @@ caesar-cipher/
 ▶️ Usage
 
 1. Clone the repository
-git clone https://github.com/Ghanshyam-Bind/Caesar_ciphe_algorithm.git
+git clone https://github.com/Ghanshyam-Bind/Caesar_cipher_algorithm.git
 
 3. Navigate to the project folder
 cd caesar-cipher
